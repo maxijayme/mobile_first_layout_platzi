@@ -1,0 +1,31 @@
+head img{
+    width: 150px;
+    height: 24px;
+    margin-top: 100px;
+    align-self: center;
+}
+
+.plans-cards__container{
+    overflow-x:hidden;
+}
+
+#arrow-right, #left-arrow {
+    display: none;
+}
+
+#runners{
+    display: inline-block;
+}
+
+.bitcoin-image-container{
+    background: url("../assets/img/bitcoinbaby2x.jpg") center/cover no-repeat;
+    background-attachment: fixed;
+}
+
+.bitcoin-image-container h2{
+    font-size: 4.2rem;
+}
+
+footer{
+    height: 60px;
+}
